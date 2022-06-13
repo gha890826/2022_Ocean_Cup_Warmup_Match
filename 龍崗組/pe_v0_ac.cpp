@@ -30,4 +30,7 @@ int main()
 		cout<<teams[i].name<<endl;
 }
 
-
+/*
+不能使用sort，因為會unstable
+要使用stable_sort，或是把index記錄下來一併排序
+*/ 
