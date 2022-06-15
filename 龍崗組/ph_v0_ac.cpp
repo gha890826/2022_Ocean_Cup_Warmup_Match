@@ -118,3 +118,6 @@ int main()
 	cout<<big_x+1<<' '<<big_y+1<<'\n'<<big_way;
 }
 
+/*
+xy方向有點亂，可能之後要再重寫吧 
+*/ 
